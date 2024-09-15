@@ -142,7 +142,7 @@ mvn test
 The reporting system is thread-safe and ensures that logs and results are accurately captured for parallel test execution.
 
 ![testcases report image](Screenshot 2024-09-15 at 16.51.40.png)
-![full report image](Screenshot 2024-09-15 at 16.51.53.png)
+![full report image1](Screenshot 2024-09-15 at 16.51.53.png)
 
 ---
 
