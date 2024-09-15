@@ -1,0 +1,4 @@
+com/stctv/pages/SubscriptionPage.class
+com/stctv/utils/SuiteSetup.class
+com/stctv/utils/DriverFactory.class
+com/stctv/utils/ExtentReportManager.class
